@@ -1,0 +1,20 @@
+:root {
+  --main-color: #0eb1d2;
+}
+
+.main-section {
+  margin-top: 50px;
+  border: 1px solid #b5b2b2;
+  border-radius: 10px;
+  width: 75vw;
+  padding: 20px;
+}
+
+.h-title {
+  color: var(--main-color);
+  text-align: center;
+}
+
+#btn-submit {
+  border-color: #fff !important;
+}
